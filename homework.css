@@ -1,0 +1,32 @@
+img.align-center {
+  display: block;
+  margin: 0px auto;
+}
+img.medium {
+  width: 250px;
+  height: 250px;
+}
+fieldset{
+  margin: 0 auto;
+  text-align: left;
+  border-radius: 6px;
+}
+.submit-button-one{
+  background: #efcf82;
+  width: 300px;
+  border-radius: 2px;
+}
+p{
+  font-size: 10pt;
+}
+.submit-button-two{
+  background: lightgrey;
+  width: 250px;
+  border-radius: 2px;
+}
+h2{
+  text-align: center;
+  font-size: 11.5px;
+  border-top: 1px solid rgba(0,0,0,0.1)
+  
+}
